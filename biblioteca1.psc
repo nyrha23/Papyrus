@@ -1,4 +1,4 @@
-Algoritmo problema1
+Algoritmo biblioteca1
 	//cada libro: nombreLibro, cantPag, genero
 	//5 estantes, cada estante: nombreLibroMayorPag, cantPagMayor
 	//al finalizar: cantLibrosI, cantLibrosN, cantLibrosH, promedioLibros
